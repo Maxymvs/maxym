@@ -23,6 +23,8 @@ Research & Strategy
 
 ## Currently
 
+**2026 Focus:** Pushing the boundaries of AI-integrated design and spatial computing experiences.
+
 - **Lead Product Designer** at Galaxy Control Systems
 - Leading redesign of flagship access control platform
 - Building AI-powered tools and design systems
